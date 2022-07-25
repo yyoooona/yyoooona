@@ -26,6 +26,12 @@
 
 -->
 
+
+![snake gif](https://github.com/yyoooona/yyoooona/blob/output/github-user-contribution.svg)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorList=1)
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyyoooona&count_bg=%2379C83D&title_bg=%233776FF&icon=aiqfome.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
